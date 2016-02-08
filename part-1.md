@@ -145,7 +145,7 @@ Responsibilities include:
   - 2 buttons: add and subtract
   - A result
 
-See: http://codepen.io/drmikeh/pen/lFnsK
+See: [AngularJS Calculator Codepen](http://codepen.io/drmikeh/pen/lFnsK)
 
 
 ## Quiz
