@@ -1,5 +1,9 @@
 # Introduction to AngularJS
 
+
+
+![#  Help Me Angular, Help ...](https://raw.githubusercontent.com/ATL-WDI-Curriculum/angular-intro/master/images/helpmeangular.jpg)
+
 * [Part 1](https://github.com/ATL-WDI-Curriculum/angular-intro/blob/master/part-1.md)
   - SPA
   - MVC in the browser
