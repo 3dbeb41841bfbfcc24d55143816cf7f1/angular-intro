@@ -16,7 +16,7 @@
 
 * [Addtional Resources]
   - Angular style guide 
-      https://github.com/johnpapa/angular-styleguide#modules
+      https://github.com/johnpapa/angular-styleguide
   - John Pappa 10 Angular patterns
       https://www.youtube.com/watch?v=UlvCbnKAH3g&list=PLkEzuuIN6SCAS6rXmwi0v6AsKJuuBbIB4
   - Dan Whalin
