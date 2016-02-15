@@ -5,8 +5,8 @@
 
 ![#  Help Me Angular, Help ...](https://raw.githubusercontent.com/ATL-WDI-Curriculum/angular-intro/master/images/helpmeangular.jpg)
 
-#Angular Super Powers
-* [Part 1](https://github.com/ATL-WDI-Curriculum/angular-intro/blob/master/Best_Of_Angular.MD)
+
+* [Angular Super Powers](https://github.com/ATL-WDI-Curriculum/angular-intro/blob/master/Best_Of_Angular.MD)
 
 * [Part 1](https://github.com/ATL-WDI-Curriculum/angular-intro/blob/master/part-1.md)
   - SPA
