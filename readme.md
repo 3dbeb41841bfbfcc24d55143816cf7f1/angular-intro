@@ -1,7 +1,7 @@
 # Introduction to AngularJS
 
 # Frameworks, Frameworks
-(https://imgflip.com/i/z8i99)
+(https://i.imgflip.com/z8i99.jpg)
 
 (http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/)
 
