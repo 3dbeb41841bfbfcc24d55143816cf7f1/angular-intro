@@ -141,6 +141,7 @@ Responsibilities include:
 
 ![Angular Architecture](https://raw.githubusercontent.com/ATL-WDI-Curriculum/angular-intro/master/images/angular-architecture.png)
 
+> NOTE: the above document shows the deprecated `$scope` as the binding / view-model between the view and the controller. It should be noted that `$scope` has fallen out of favor and replaced with the `controller as vm` binding. Conceptually there is not much difference but the `controller as vm` binding is safer, is better suited for using the new JavaScript class for the controller, and makes testing controllers a little easier.
 
 ## LAB
 
