@@ -1,5 +1,5 @@
-The *Best* Parts of Angular 
-**The simplicity of data binding**
+ 
+ **The simplicity of data binding**
 
 What makes data binding in Angular even more powerful is the fact that the binding source can be an expression. Angular evaluates the expression between the double curly brace notation ({{ }}) before binding.
 
