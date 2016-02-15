@@ -1,7 +1,7 @@
 # Introduction to AngularJS
 
-# Frameworks, Frameworks
-https://raw.githubusercontent.com/ATL-WDI-Curriculum/angular-intro/master/images/framesworks.jpg
+![#  Help Me Angular, Help ...]
+(https://raw.githubusercontent.com/ATL-WDI-Curriculum/angular-intro/master/images/framesworks.jpg)
 
 
 (http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/)
