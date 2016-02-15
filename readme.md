@@ -29,4 +29,6 @@
       https://www.youtube.com/watch?v=UlvCbnKAH3g&list=PLkEzuuIN6SCAS6rXmwi0v6AsKJuuBbIB4
   - Dan Whalin
       https://www.youtube.com/watch?v=i9MHigUZKEM
+  - Atlanta Angular Meeting * Created by WDI alumns.
+    http://www.meetup.com/ATL-AngularJS/events/227610704/
   
