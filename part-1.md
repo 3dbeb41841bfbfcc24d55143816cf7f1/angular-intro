@@ -135,8 +135,12 @@ Responsibilities include:
 ## AngularJS Basics
 
 * Views, Controllers, and $scope
-* See Keynote slide
 * Hello World with controller
+
+## The Architecture of an AngularJS App
+
+![Angular Architecture](https://raw.githubusercontent.com/ATL-WDI-Curriculum/angular-intro/master/images/angular-architecture.png)
+
 
 ## LAB
 
