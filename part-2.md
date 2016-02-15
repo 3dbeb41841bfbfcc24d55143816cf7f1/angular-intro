@@ -24,7 +24,7 @@ This code-along demonstrates the following AngularJS directives:
 * ngShow
 * ngHide
 
-[Codepen](http://codepen.io/drmikeh/pen/bdrvRm?editors=111)
+[Codepen: Counter App](http://codepen.io/drmikeh/pen/bdrvRm?editors=111)
 
 ```html
 <body ng-app="counterApp">

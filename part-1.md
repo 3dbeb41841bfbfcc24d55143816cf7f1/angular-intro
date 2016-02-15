@@ -84,9 +84,9 @@ A static HTML page:
 </html>
 ```
 
-See: [DOM Updates via jQuery](http://codepen.io/drmikeh/pen/jEKRMj)
+See: [Codepen: DOM Updates via jQuery](http://codepen.io/drmikeh/pen/jEKRMj)
 or
-See: [DOM Updates via jQuery, standalone](http://codepen.io/drmikeh/pen/uhxng)
+See: [Codepen: DOM Updates via jQuery, standalone](http://codepen.io/drmikeh/pen/uhxng)
 
 ### AngularJS Version
 
@@ -107,7 +107,7 @@ See: [DOM Updates via jQuery, standalone](http://codepen.io/drmikeh/pen/uhxng)
 </html>
 ```
 
-See: [DOM Updates with AngularJS](http://codepen.io/drmikeh/pen/emKogJ)
+See: [Codepen: DOM Updates with AngularJS](http://codepen.io/drmikeh/pen/emKogJ)
 
 > NOTE: THERE IS NO JAVASCRIPT!!!
 > How is AngularJS doing that?
@@ -145,7 +145,7 @@ Responsibilities include:
   - 2 buttons: add and subtract
   - A result
 
-See: [AngularJS Calculator Codepen](http://codepen.io/drmikeh/pen/lFnsK)
+See: [Codepen: AngularJS Calculator ($scope version)](http://codepen.io/drmikeh/pen/lFnsK)
 
 
 ## Quiz
