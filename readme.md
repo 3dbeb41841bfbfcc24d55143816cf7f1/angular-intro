@@ -1,6 +1,6 @@
 # Introduction to AngularJS
 
-
+#  Help Me Angular, Help ...
 
 ![#  Help Me Angular, Help ...](https://raw.githubusercontent.com/ATL-WDI-Curriculum/angular-intro/master/images/helpmeangular.jpg)
 
