@@ -28,7 +28,7 @@
 * AngularJS follows MVC
 * If we put them together, we get 2 MVC apps working together
 
-![MEAN Stack](https://raw.githubusercontent.com/ATL-WDI-Curriculum/angular-intro/master/images/mean-diagram.png)
+<img src="https://raw.githubusercontent.com/ATL-WDI-Curriculum/angular-intro/master/images/mean-diagram.png" alt="alt text" width="600px">
 
 ## Some responsibilities move from the server to the client:
 
