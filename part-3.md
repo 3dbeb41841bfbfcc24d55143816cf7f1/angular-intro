@@ -83,3 +83,19 @@ angular.module('counterApp')
   }
 });
 ```
+
+## Bonus
+
+Now try adding a 2nd counter:
+
+```html
+<h1>Simple Counter with Controller</h1>
+<section ng-app="counterApp">
+  <simple-counter></simple-counter>
+  <simple-counter></simple-counter>
+</section>
+```
+
+Nice :-)
+
+> Components are great for reuse!!!
