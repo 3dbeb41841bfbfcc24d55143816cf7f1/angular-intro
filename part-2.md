@@ -26,6 +26,8 @@ This code-along demonstrates the following AngularJS directives:
 
 [Codepen: Counter App](http://codepen.io/drmikeh/pen/bdrvRm?editors=111)
 
+#### HTML
+
 ```html
 <body ng-app="counterApp">
   <h1>Simple Counter with Controller</h1>
@@ -42,6 +44,8 @@ This code-along demonstrates the following AngularJS directives:
 </body>
 ```
 
+#### CSS
+
 ```css
 button {
   font-size: 1.4em;
@@ -56,6 +60,8 @@ button {
   font-size: 2em;
 }
 ```
+
+#### JavaScript
 
 ```javascript
 angular.module('counterApp', []);
@@ -103,6 +109,8 @@ This code-along demonstrates:
 
 [Codepen: Pets with ng-repeat](http://codepen.io/drmikeh/pen/RPbqMN)
 
+#### JavaScript
+
 ```javascript
 angular.module('myApp', []);
 angular.module('myApp')
@@ -120,6 +128,8 @@ angular.module('myApp')
   };
 });
 ```
+
+#### HTML
 
 ```html
 <body ng-app="petsApp">
@@ -143,6 +153,8 @@ angular.module('myApp')
 </body>
 ```
 
+#### CSS
+
 ```css
 body {
   padding: 20px 40px;
@@ -158,16 +170,20 @@ h1 {
 }
 ```
 
+### More Angular Directives
 
-### ng-if
+#### ng-if
 
+TODO: show example
 
-### ng-switch
+#### ng-switch
 
+TODO: show example
 
-### Filters
+#### Filters
 
 * currency
+* date
 * uppercase
 * orderBy
 
