@@ -31,15 +31,15 @@ This code-along demonstrates the following AngularJS directives:
 ```html
 <body ng-app="counterApp">
   <h1>Simple Counter with Controller</h1>
-  <div ng-controller="counterCtrl as ctrl">
-    <button ng-click="ctrl.increment()"
-            ng-disabled="ctrl.isLimitExceeded()">Increment</button>
-    <button ng-click="ctrl.decrement()"
-            ng-disabled="ctrl.countIsZero()">Decrement</button>
-    <button ng-click="ctrl.reset()">Reset</button>
-    <h2 class="counter" ng-class="{red: ctrl.countIsZero()}">count: {{ ctrl.count }}</h2>
-    <p ng-show="ctrl.isLimitExceeded()">You have exceeded your limit!</p>
-    <p ng-hide="ctrl.isLimitExceeded()">You are doing great!</p>
+  <div ng-controller="counterCtrl as $ctrl">
+    <button ng-click="$ctrl.increment()"
+            ng-disabled="$ctrl.isLimitExceeded()">Increment</button>
+    <button ng-click="$ctrl.decrement()"
+            ng-disabled="$ctrl.countIsZero()">Decrement</button>
+    <button ng-click="$ctrl.reset()">Reset</button>
+    <h2 class="counter" ng-class="{red: $ctrl.countIsZero()}">count: {{ $ctrl.count }}</h2>
+    <p ng-show="$ctrl.isLimitExceeded()">You have exceeded your limit!</p>
+    <p ng-hide="$ctrl.isLimitExceeded()">You are doing great!</p>
   </div>
 </body>
 ```
@@ -133,17 +133,17 @@ angular.module('myApp')
 
 ```html
 <body ng-app="petsApp">
-  <div ng-controller="petsCtrl as ctrl">
+  <div ng-controller="petsCtrl as $ctrl">
     <h2>Those crazy pets</h2>
     <ul>
-      <li class="pet" ng-repeat="pet in ctrl.pets | orderBy : 'owner'">
+      <li class="pet" ng-repeat="pet in $ctrl.pets | orderBy : 'owner'">
         {{ pet.owner + " has a " +
         pet.species + " named " + pet.name }}
       </li>
     </ul>
-    <button ng-click="ctrl.removeLastPet()">Remove Last</button>
+    <button ng-click="$ctrl.removeLastPet()">Remove Last</button>
 
-    <h3 ng-repeat-start="pet in ctrl.pets">{{ pet.name }}</h3>
+    <h3 ng-repeat-start="pet in $ctrl.pets">{{ pet.name }}</h3>
     <ul ng-repeat-end>
       <li>species: {{ pet.species }}</li>
       <li>owner: {{ pet.owner }}</li>
