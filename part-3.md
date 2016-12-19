@@ -1,4 +1,4 @@
-# Part 3 - Angular Components
+# Part 3 - Angular 1 Components
 
 Let's look at our Simple Counter Angular App written as an Angular 1.5 Component.
 
