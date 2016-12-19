@@ -9,7 +9,7 @@ Note that this code can be found at this [Codepen](http://codepen.io/drmikeh/pen
 ```html
 <h1>Simple Counter with Controller</h1>
 <section ng-app="counterApp">
-  <simple-counter/>
+  <simple-counter></simple-counter>
 </section>
 ```
 
